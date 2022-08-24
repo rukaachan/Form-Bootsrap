@@ -1,0 +1,21 @@
+html,
+body {
+	height: 100%;
+	background-image: url("Pixel.jpeg");
+	background-size: cover;
+}
+
+.global-container {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #DEB887;
+}
+
+.login-form {
+	height: 380px;
+	width:400px;
+	padding: 20px;
+	background: rgba(0, 0, 0, 0);
+}
