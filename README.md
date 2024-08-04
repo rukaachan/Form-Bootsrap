@@ -1,2 +1,1 @@
-Hasil pembelajaran kelas 10 RPL 💻
-Membuat formulir simple 📝
+Proyek ini merupakan hasil pembelajaran siswa kelas 10 RPL (Rekayasa Perangkat Lunak). Tujuannya adalah untuk membuat formulir web sederhana yang dapat digunakan untuk mengumpulkan informasi dasar dari pengguna. Proyek ini memanfaatkan HTML, CSS, dan kerangka kerja Bootstrap untuk membuat formulir yang responsif dan menarik.
